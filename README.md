@@ -1,4 +1,4 @@
-# HuffmanEncode-Decode
+# Simple HuffmanEncode-Decode
 python code to encode image and decode the code compression
 ## In encode test
 ### I only check if this file is exists or not 
