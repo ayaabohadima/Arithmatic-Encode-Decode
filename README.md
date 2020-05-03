@@ -1,7 +1,6 @@
 # HuffmanEncode-Decode
 python code to encode image and decode the code compression
 ## In encode test
-### you should enter valid image 
 ### I only check if this file is exists or not 
 ### prob.npy  --> output file has probability
 ### codes.npy --> output file has codes
